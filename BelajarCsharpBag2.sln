@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29403.142
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BelajarCsharpBag2", "BelajarCsharpBag2\BelajarCsharpBag2.csproj", "{6DCE5242-C9A6-4C4A-8F3B-B43B3C269C39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DCE5242-C9A6-4C4A-8F3B-B43B3C269C39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DCE5242-C9A6-4C4A-8F3B-B43B3C269C39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DCE5242-C9A6-4C4A-8F3B-B43B3C269C39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DCE5242-C9A6-4C4A-8F3B-B43B3C269C39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8C34E21-61DF-442A-87C4-D46E98D16BF9}
+	EndGlobalSection
+EndGlobal
